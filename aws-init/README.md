@@ -2,7 +2,7 @@
 
 ## 1장 : AWS 기본
 
-- [AWS란?](./docs/ch01-1.md)
+- [AWS란?](docs/ch01-1.md)
 - [AWS의 네트워크 서비스](docs/ch01-2.md)
 - [하드웨어 리소스](docs/ch01-3.md)
 - [어플리케이션 기반](docs/ch01-4.md)
